@@ -1626,6 +1626,12 @@ Join a local user group. There are active groups in London, Guildford, and
 Brighton.
 
 
+### Solutions
+
+The solutions to today's exercises are available from
+https://github.com/inglesp/ruby-for-puppet/archive/solutions.zip.
+
+
 ### Stay in touch!
 
 Feel free to get in touch at peter.inglesby@gmail.com.
