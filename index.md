@@ -1470,7 +1470,7 @@ might want to update the data in `person.json`!)
 
 When we run `render_template.rb`, we see the template combined with the data:
 
-    $ ruby render_template.rb hello.erb name.json
+    $ ruby render_template.rb hello.erb person.json
     Hello, Peter, you live in Cambridge!
 
 The gaps in the template are marked with the tags `<%=` and `%>`.  Anything
